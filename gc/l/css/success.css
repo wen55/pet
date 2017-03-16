@@ -1,0 +1,88 @@
+.success{
+    padding-top: 0px; 
+    max-width: 768px;
+    margin:0 auto; 
+    min-width: 320px;
+    background: url(https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1489578155669&di=fc1ac58aeaec4c96f1850752cfe496f7&imgtype=0&src=http%3A%2F%2Fpic1.win4000.com%2Fwallpaper%2Fa%2F5472a7c021ca1.jpg) no-repeat;    filter:"progid:DXImageTransform.Microsoft.AlphaImageLoader(sizingMethod='scale')";
+   -moz-background-size:100% 100%;
+    background-size:100% 100%;
+    min-height:480px; 
+}
+.success img {
+    margin:45px 0 0 50%;
+}
+.success p{
+    display: block;
+    margin:20px 0 0 11%;
+    font-family: "Microsoft YaHei";
+    font-size: 24px;
+    color:#fff;
+    text-align: center;
+}
+.s_msg{
+    width:70%;
+    height:170px;
+    margin:50px 0 0 15%;
+    background:#fff;
+    border-radius:3px;
+    filter:alpha(opacity:80);
+    opacity:0.8;
+    padding:10px;
+}
+.s_title{
+    display: block;
+    font-family: "Microsoft YaHei";
+    font-size: 14px;
+    color:#323232;
+    margin:20px 0 10px 10px;
+}
+.s_red{
+    font-family: "Microsoft YaHei";
+    color:red;
+    font-size: 18px;
+    text-align: center;
+}
+.s_redlink{
+    font-family: "Microsoft YaHei";
+    color:red;
+    font-size: 18px;
+    text-align: center;
+    margin:0 0 0 20px;;
+}
+.s_redlink a:link,a:visited,a:hover,a:active{
+    color:red;
+    text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
